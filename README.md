@@ -7,8 +7,6 @@ at first let's deploy a CI/CD system
 ## CI
 
 # TODO
-At first i need a simple org managent system without user managent  
-[devops-mgmt](https://github.com/play-devops/devops-mgmt.git)
 
 ### Environment
 
